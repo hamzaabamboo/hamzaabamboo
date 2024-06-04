@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello World
 
-<!--
-**hamzaabamboo/hamzaabamboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Ham. I like coding.
 
-Here are some ideas to get you started:
+Technically Frontend Developer, but I like doing other parts of the stack just as much.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Typescript is Love, Typescirpt is Life.
+
+I like making [random stuff](https://v4-ham-san-net.netlify.app/ja/projects).
+
+//TODO: Integrate with [Hamweb](https://github.com/hamzaabamboo/ham-san.net) and [Hambot](https://github.com/hamzaabamboo/hambot)
+
+<!-- 
+  Resources
+  - https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#github-actions-
+  - https://zzetao.github.io/awesome-github-profile/
+  - 
 -->
