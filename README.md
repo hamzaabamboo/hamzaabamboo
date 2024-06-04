@@ -14,5 +14,6 @@ I like making [random stuff](https://v4-ham-san-net.netlify.app/ja/projects).
   Resources
   - https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#github-actions-
   - https://zzetao.github.io/awesome-github-profile/
-  - 
+  - https://github.com/anuraghazra/github-readme-stats
+  - https://github.com/BrandonLogandi/github-readme-stats-multiuser
 -->
