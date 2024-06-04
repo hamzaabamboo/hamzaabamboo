@@ -4,7 +4,7 @@ Hi, my name is Ham. I like coding.
 
 Technically Frontend Developer, but I like doing other parts of the stack just as much.
 
-Typescript is Love, Typescirpt is Life.
+Typescript is Love, Typescript is Life.
 
 I like making [random stuff](https://v4-ham-san-net.netlify.app/ja/projects).
 
